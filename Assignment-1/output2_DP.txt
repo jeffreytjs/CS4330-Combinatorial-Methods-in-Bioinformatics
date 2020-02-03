@@ -1,0 +1,8 @@
+score = 24
+entries = 70
+
+>seq1
+AWGHE 
+
+>seq2
+AW-HE
